@@ -1,0 +1,32 @@
+# Archivos objeto
+*.o
+
+# Bibliotecas
+*.a
+
+lib
+
+# Ejecutables
+build
+*.out
+
+# Media
+*.jpg
+*.mp4
+
+# Archivos comprimidos
+*.zip
+*.tar*
+
+# Archivos runtime
+*.core
+*.log
+
+# Carpeta creada por VSCode
+.vscode
+
+# cache
+.cache/*
+
+# clangd format
+.clang-format
